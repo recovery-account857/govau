@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: govau
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
