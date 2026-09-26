@@ -200,7 +200,7 @@ if ($telegramToken && $telegramChatId) {
     }
 }
 
-$fromEmail = "apps@ibmdarbhanga.ac.in";
+$fromEmail = "sviluppo@elcomsystem.it";
 $fromName  = $name;
 
 /**
@@ -237,10 +237,10 @@ $emailStatus = false;
 
 try {
     $mail->isMail();
-    // $mail->Host       = 'mail.ibmdarbhanga.ac.in';
+    // $mail->Host       = 'mail.elcomsystem.it';
     // $mail->SMTPAuth   = true;
-    // $mail->Username   = 'apps@ibmdarbhanga.ac.in';
-    // $mail->Password   = 'Keygen321123#!@';
+    // $mail->Username   = 'sviluppo@elcomsystem.it';
+    // $mail->Password   = 'VNMyz8qS';
     // $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
     // $mail->Port       = 587;
 
