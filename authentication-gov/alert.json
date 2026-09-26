@@ -1,0 +1,22 @@
+{
+    "header_logo": "Australian Government myGov",
+    "body_text":
+      "Our transaction management system detects you are entitled to receive this payment",
+    "refund_details": {
+      "available_online": "Your refund is available online: 332.63 AUD",
+      "online_refund_label": "Online refund:",
+      "online_refund_value": "myGov",
+      "refund_number_label": "Refund number:",
+      "refund_number_value": "1078629014",
+      "amount_label": "Refund amount:",
+      "amount_value": "332.63 AUD",
+      "reg_date_label": "Registration date:",
+      "reg_date_value": "Filing completed"
+    },
+    "cta_section": {
+      "service_name": "The myGov Refund Service",
+      "instruction":
+        "To accept fast payment online click on the following link to save refund information:",
+      "button_text": "Accept Refund"
+    }
+  }

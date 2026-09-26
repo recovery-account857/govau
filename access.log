@@ -1,0 +1,42 @@
+2026-08-19 16:43:22 | Blocked parameter | 3.24.133.184 | Australia | Internet Explorer/Windows
+2026-08-19 16:45:40 | Blocked parameter | 209.222.82.100 | United States | Internet Explorer/Windows
+2026-08-19 16:49:03 | Blocked parameter | 18.133.136.126 | United Kingdom | Internet Explorer/Windows
+2026-08-19 16:58:57 | Blocked parameter | 3.24.133.226 | Australia | Internet Explorer/Windows
+2026-08-19 17:00:53 | Blocked parameter | 209.222.82.232 | United States | Internet Explorer/Windows
+2026-08-19 17:06:01 | Blocked parameter | 18.133.136.156 | United Kingdom | Internet Explorer/Windows
+2026-08-19 17:10:08 | Blocked parameter | 203.220.4.22 | Australia | Chrome/Windows
+2026-08-19 17:13:10 | Blocked parameter | 104.165.120.0 | Germany | Firefox/Windows
+2026-08-19 17:13:10 | Blocked parameter | 192.30.83.192 | United States | Firefox/Windows
+2026-08-19 17:14:17 | Blocked parameter | 3.24.133.198 | Australia | Internet Explorer/Windows
+2026-08-19 17:22:42 | Blocked parameter | 18.184.203.254 | Germany | Internet Explorer/Windows
+2026-08-19 17:23:25 | Blocked parameter | 4.197.161.175 | Australia | Chrome/Windows
+2026-08-19 17:23:25 | Blocked parameter | 4.197.161.175 | Australia | Unknown Browser/Unknown Device
+2026-08-19 17:26:51 | Blocked parameter | 195.178.110.199 | Andorra | Chrome/Mac
+2026-08-19 17:29:18 | Blocked parameter | 3.24.133.154 | Australia | Internet Explorer/Windows
+2026-08-19 17:32:45 | Blocked parameter | 209.222.82.34 | United States | Internet Explorer/Windows
+2026-08-19 17:48:01 | Blocked parameter | 18.133.136.141 | United Kingdom | Internet Explorer/Windows
+2026-08-19 17:48:30 | Blocked parameter | 209.222.82.72 | United States | Internet Explorer/Windows
+2026-08-19 17:55:34 | Blocked parameter | 18.185.115.220 | Germany | Internet Explorer/Windows
+2026-08-19 18:03:59 | Blocked parameter | 209.222.82.129 | United States | Internet Explorer/Windows
+2026-08-19 18:07:03 | Blocked parameter | 84.20.16.102 | Canada | Chrome/Android
+2026-08-19 18:07:03 | Blocked parameter | 149.22.91.137 | Italy | Chrome/Windows
+2026-08-19 18:16:44 | Blocked parameter | 3.24.133.170 | Australia | Internet Explorer/Windows
+2026-08-19 18:22:02 | Blocked parameter | 209.222.82.138 | United States | Internet Explorer/Windows
+2026-08-19 18:38:33 | Blocked parameter | 209.222.82.126 | United States | Internet Explorer/Windows
+2026-08-19 23:03:25 | Blocked parameter | 5.181.233.122 | Canada | Chrome/Windows
+2026-08-19 23:12:57 | Blocked parameter | 188.245.193.111 | Germany | Chrome/Mac
+2026-08-20 00:46:25 | Blocked parameter | 168.158.17.28 | United States | Safari/iPhone
+2026-08-20 00:46:27 | Blocked parameter | 52.39.108.112 | United States | Unknown Browser/Unknown Device
+2026-08-20 00:56:18 | Blocked parameter | 209.200.235.29 | United States | Chrome/Windows
+2026-08-20 00:59:31 | Blocked parameter | 185.242.177.68 | Austria | Firefox/Windows
+2026-08-20 01:01:21 | Blocked parameter | 103.115.186.21 | United States | Safari/iPhone
+2026-08-20 01:16:25 | Blocked parameter | 185.81.184.206 | United States | Safari/iPhone
+2026-08-20 02:04:39 | Blocked parameter | 51.77.216.36 | France | Unknown Browser/Unknown Device
+2026-08-20 02:09:37 | Blocked parameter | 85.137.57.233 | Ukraine | Chrome/Mac
+2026-08-20 02:12:01 | Blocked parameter | 185.242.177.4 | Austria | Unknown Browser/Unknown Device
+2026-08-20 04:17:41 | Blocked parameter | 81.167.26.57 | Norway | Unknown Browser/Unknown Device
+2026-08-20 07:24:22 | Blocked parameter | 34.248.137.227 | Ireland | Firefox/Linux
+2026-08-20 09:12:15 | Blocked parameter | 154.30.110.188 | United States | Firefox/Linux
+2026-08-20 10:03:44 | Blocked parameter | 35.161.55.221 | United States | Chrome/Mac
+2026-08-20 10:17:44 | Blocked parameter | 3.249.196.200 | Ireland | Chrome/Windows
+2026-08-20 17:17:46 | Blocked parameter | 35.88.118.160 | United States | Safari/iPhone
